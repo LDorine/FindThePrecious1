@@ -22,3 +22,7 @@ img {
 #wanted:hover img {
     filter: contrast(100%);
 }
+
+th,td {
+    border: solid 1px black;
+}

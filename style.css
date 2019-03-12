@@ -2,7 +2,7 @@ span {
     color: orange;
 }
 
-.card-text .reward{
+ .reward {
     position: absolute;
     align-self: center;
     top: 5%;
@@ -11,7 +11,7 @@ span {
     border-radius: 5px;
 }
 
-#wanted:hover .card-text .reward{
+#wanted:hover .reward {
     display: none;
 }
 
